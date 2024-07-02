@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Lupo, and I'm from Italy</h1>
+<h1 align="left">Hi 👋! My name is Lupo and I'm from Italy</h1>
 
 ###
 
