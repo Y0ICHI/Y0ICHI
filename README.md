@@ -46,10 +46,9 @@
 </div>
 
 ###
-
+<h3><center>I am  <img aling="center" src="https://api.statusbadges.me/badge/status/687763937076314115?simple=true&style=for-the-badge" alt="status"> on discord </center></h3>
 <h3> What am I doing (Discord): </h3>
 
-![status](https://api.statusbadges.me/badge/status/687763937076314115?simple=true&style=for-the-badge)
 ![playing](https://api.statusbadges.me/badge/playing/687763937076314115?style=for-the-badge)
 ![vscode](https://api.statusbadges.me/badge/vscode/687763937076314115?style=for-the-badge)
 [![spotify](https://api.statusbadges.me/badge/spotify/687763937076314115?style=for-the-badge)](https://api.statusbadges.me/openspotify/687763937076314115)
