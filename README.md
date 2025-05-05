@@ -12,6 +12,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -46,6 +48,7 @@
 </div>
 
 ###
+<h1> DOESN'T WORK <h1>
 <h3><center>I am  <img aling="center" src="https://api.statusbadges.me/badge/status/687763937076314115?simple=true&style=for-the-badge" alt="status"> on discord </center></h3>
 <h3> What am I doing (Discord): </h3>
 
